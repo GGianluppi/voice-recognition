@@ -1,8 +1,5 @@
 # Voice-Recognition
 
-
-![Alt text](voice2.png?raw=true "Title")
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/104764600/192166906-7e927cc8-2565-454e-8ea9-de7d8b0bec5f.png" width="550" height="150">
 </p>
