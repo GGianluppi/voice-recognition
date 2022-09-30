@@ -16,7 +16,7 @@ O sistema realizado disponibiliza dois modos de operação. O primeiro modo faz 
 indivíduo diga alguma palavra que foi definida. O segundo modo é realizado apos ser dito a palavra chave "Arduíno" que inicia o dispositivo, nesse momento o sistema estará em modo de "escuta" onde ficará aceso um LED azul durante 10 segundos, caso o usuário desistir do comando, o sistema entrará novamente em modo de espera. Esse modo de operação possibilita que o usuário escolha a função de ligar ou desligar um equipamento. Assim podemos ter um melhor entendimento na figura abaixo.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104764600/192166906-7e927cc8-2565-454e-8ea9-de7d8b0bec5f.png" width="550" height="150">
+<img src="https://user-images.githubusercontent.com/104764600/192166906-7e927cc8-2565-454e-8ea9-de7d8b0bec5f.png" width="600" height="200">
 </p>
 
 ## Protótipo de reconhecimento de voz em funcionamento
