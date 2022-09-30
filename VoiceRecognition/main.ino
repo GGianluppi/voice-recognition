@@ -189,7 +189,7 @@ void loop()
               }
               else{
               Serial.println("Turn on lamp");  
-              //Será um prazer atender  
+
               } 
               
               digitalWrite(Lampada, HIGH); 
@@ -205,7 +205,6 @@ void loop()
       if(comando_Desligar==true){
               if(digitalRead(Lampada)==LOW){
                 Serial.println("The lamp is already off");
-                //Senhor a lampada já está desligada 
               }
               else{
                Serial.println("Turn off lamp"); 
