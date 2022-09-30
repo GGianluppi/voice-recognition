@@ -1,4 +1,4 @@
-# Voice-Recognition
+# Voice Recognition
 
 Este proté parte do Trabalho de Conclusão de Curso I, que propõe o desenvolvimento de um dispositivo de automação residencial responsável por controlar equipamentos domésticos e interagir com pessoas com deficiência física dentro de um ambiente através de comando de voz.
 
