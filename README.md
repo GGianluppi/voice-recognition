@@ -18,7 +18,7 @@ The system operates in two modes. The first mode keeps the module in standby mod
 <img src="https://user-images.githubusercontent.com/104764600/192166906-7e927cc8-2565-454e-8ea9-de7d8b0bec5f.png" width="600" height="200">
 </p>
 
-## PVoice Recognition Prototype in Operation
+## Voice Recognition Prototype in Operation
 
 Next, it is possible to observe the prototype in action, where the lamp and the fan are activated, represented by the yellow and white LEDs, respectively.
 
